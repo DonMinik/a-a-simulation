@@ -1,0 +1,7 @@
+gradle/
+.idea/
+lib/
+out/
+src/main/angular/ui/node_modules/
+*.jar
+*.class
